@@ -1,0 +1,6 @@
+/Users/Obaid/Desktop/TestPro/Selection_Statements/Selection_Statements/bin/Debug/Selection_Statements.exe
+/Users/Obaid/Desktop/TestPro/Selection_Statements/Selection_Statements/bin/Debug/Selection_Statements.pdb
+/Users/Obaid/Desktop/TestPro/Selection_Statements/Selection_Statements/obj/Debug/Selection_Statements.csproj.AssemblyReference.cache
+/Users/Obaid/Desktop/TestPro/Selection_Statements/Selection_Statements/obj/Debug/Selection_Statements.csproj.CoreCompileInputs.cache
+/Users/Obaid/Desktop/TestPro/Selection_Statements/Selection_Statements/obj/Debug/Selection_Statements.exe
+/Users/Obaid/Desktop/TestPro/Selection_Statements/Selection_Statements/obj/Debug/Selection_Statements.pdb
