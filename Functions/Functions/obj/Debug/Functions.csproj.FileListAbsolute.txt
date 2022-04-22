@@ -1,0 +1,6 @@
+/Users/Obaid/Desktop/TestPro/Functions/Functions/bin/Debug/Functions.exe
+/Users/Obaid/Desktop/TestPro/Functions/Functions/bin/Debug/Functions.pdb
+/Users/Obaid/Desktop/TestPro/Functions/Functions/obj/Debug/Functions.csproj.AssemblyReference.cache
+/Users/Obaid/Desktop/TestPro/Functions/Functions/obj/Debug/Functions.csproj.CoreCompileInputs.cache
+/Users/Obaid/Desktop/TestPro/Functions/Functions/obj/Debug/Functions.exe
+/Users/Obaid/Desktop/TestPro/Functions/Functions/obj/Debug/Functions.pdb
