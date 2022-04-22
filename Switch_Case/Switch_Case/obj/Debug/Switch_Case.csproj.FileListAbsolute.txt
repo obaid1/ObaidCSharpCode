@@ -1,0 +1,6 @@
+/Users/Obaid/Desktop/TestPro/Switch_Case/Switch_Case/bin/Debug/Switch_Case.exe
+/Users/Obaid/Desktop/TestPro/Switch_Case/Switch_Case/bin/Debug/Switch_Case.pdb
+/Users/Obaid/Desktop/TestPro/Switch_Case/Switch_Case/obj/Debug/Switch_Case.csproj.AssemblyReference.cache
+/Users/Obaid/Desktop/TestPro/Switch_Case/Switch_Case/obj/Debug/Switch_Case.csproj.CoreCompileInputs.cache
+/Users/Obaid/Desktop/TestPro/Switch_Case/Switch_Case/obj/Debug/Switch_Case.exe
+/Users/Obaid/Desktop/TestPro/Switch_Case/Switch_Case/obj/Debug/Switch_Case.pdb
