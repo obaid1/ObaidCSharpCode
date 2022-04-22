@@ -1,0 +1,6 @@
+/Users/Obaid/Desktop/TestPro/Projects/LinqObjects/LinqObjects/obj/Debug/LinqObjects.csproj.AssemblyReference.cache
+/Users/Obaid/Desktop/TestPro/Projects/LinqObjects/LinqObjects/obj/Debug/LinqObjects.csproj.CoreCompileInputs.cache
+/Users/Obaid/Desktop/TestPro/Projects/LinqObjects/LinqObjects/bin/Debug/LinqObjects.exe
+/Users/Obaid/Desktop/TestPro/Projects/LinqObjects/LinqObjects/bin/Debug/LinqObjects.pdb
+/Users/Obaid/Desktop/TestPro/Projects/LinqObjects/LinqObjects/obj/Debug/LinqObjects.exe
+/Users/Obaid/Desktop/TestPro/Projects/LinqObjects/LinqObjects/obj/Debug/LinqObjects.pdb
