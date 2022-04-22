@@ -1,0 +1,6 @@
+/Users/Obaid/Desktop/TestPro/Loops/Loops/bin/Debug/Loops.exe
+/Users/Obaid/Desktop/TestPro/Loops/Loops/bin/Debug/Loops.pdb
+/Users/Obaid/Desktop/TestPro/Loops/Loops/obj/Debug/Loops.csproj.AssemblyReference.cache
+/Users/Obaid/Desktop/TestPro/Loops/Loops/obj/Debug/Loops.csproj.CoreCompileInputs.cache
+/Users/Obaid/Desktop/TestPro/Loops/Loops/obj/Debug/Loops.exe
+/Users/Obaid/Desktop/TestPro/Loops/Loops/obj/Debug/Loops.pdb
