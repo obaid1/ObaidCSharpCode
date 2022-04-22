@@ -1,0 +1,6 @@
+/Users/Obaid/Projects/oop/oop/bin/Debug/oop.exe
+/Users/Obaid/Projects/oop/oop/bin/Debug/oop.pdb
+/Users/Obaid/Projects/oop/oop/obj/Debug/oop.csproj.AssemblyReference.cache
+/Users/Obaid/Projects/oop/oop/obj/Debug/oop.csproj.CoreCompileInputs.cache
+/Users/Obaid/Projects/oop/oop/obj/Debug/oop.exe
+/Users/Obaid/Projects/oop/oop/obj/Debug/oop.pdb
