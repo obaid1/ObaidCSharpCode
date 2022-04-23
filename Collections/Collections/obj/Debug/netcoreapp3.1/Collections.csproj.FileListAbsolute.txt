@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+\\Mac\Home\Documents\GitHub\ObaidCSharpCode\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
